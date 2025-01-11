@@ -1,21 +1,22 @@
-###Golden Age TV Basic Python Analysis
+# Golden Age TV Basic Python Analysis
 
-Introduction
+## Introduction
 This project analyzes data from the entertainment industry, specifically focusing on the "Golden Age" of television, which began in 1999 with The Sopranos and continues to this day. The primary objective is to investigate how the number of votes a title receives impacts its IMDb rating. The hypothesis is that highly-rated shows released during this period also garner the most votes.
 
-Dataset
+## Dataset
 The dataset is stored in /datasets/movies_and_shows.csv and contains the following columns:
 
-name: Name of the actor or director.
-character: Character played (for actors).
-role: The person's contribution to the title (actor or director).
-title: Title of the movie or show.
-type: Type of media (movie or show).
-release_year: Year of release.
-genres: List of genres.
-imdb_score: IMDb rating.
-imdb_votes: Number of votes on IMDb.
-Stages
+- **name:** Name of the actor or director.
+- **character:** Character played (for actors).
+- **role:** The person's contribution to the title (actor or director).
+- **title:** Title of the movie or show.
+- **type:** Type of media (movie or show).
+- **release_year:** Year of release.
+- **genres:** List of genres.
+- **imdb_score:** IMDb rating.
+- **imdb_votes:** Number of votes on IMDb.
+
+## Stages
 1. Data Overview
 Load the dataset and display the first 10 rows.
 Review column names, data types, and missing values.
