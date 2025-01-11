@@ -1,4 +1,4 @@
-# Golden Age TV Basic Python Analysis
+# Golden Age TV Basic Python Analysis S1
 
 ## Introduction
 This project analyzes data from the entertainment industry, specifically focusing on the "Golden Age" of television, which began in 1999 with The Sopranos and continues to this day. The primary objective is to investigate how the number of votes a title receives impacts its IMDb rating. The hypothesis is that highly-rated shows released during this period also garner the most votes.
