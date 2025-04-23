@@ -1,4 +1,4 @@
-# Golden Age TV: Basic Python Analysis (Season 1)
+# Golden Age TV: Basic Python Analysis (TripleTen Sprint 1)
 _A data-driven dive into how IMDb votes relate to TV ratings since the rise of prestige television_
 
 ## 🎬 Introduction
