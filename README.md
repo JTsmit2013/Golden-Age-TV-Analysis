@@ -72,3 +72,7 @@ pip install pandas
 #    (either in Jupyter Notebook or as a script if provided)
 jupyter notebook Golden_Age_TV_Analysis.ipynb
 
+## 🚀 Future Work
+- Expand analysis to include more genres or platforms (e.g., Netflix, HBO, AMC)
+- Explore other influencing factors like production budget, awards, or critical reviews
+
