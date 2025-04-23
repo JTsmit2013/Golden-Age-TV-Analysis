@@ -54,23 +54,26 @@ The dataset is located at `/datasets/movies_and_shows.csv` and includes the foll
 ## ⚙️ How to Run
 
 ```bash
-# 1. Clone this repository
+ 1. Clone this repository
 git clone https://github.com/yourusername/golden-age-tv.git
 cd golden-age-tv
 
-# 2. (Optional) Create and activate a virtual environment
+ 2. (Optional) Create and activate a virtual environment
 python -m venv venv
 source venv/bin/activate      # On Windows use: venv\Scripts\activate
 
-# 3. Install required libraries
+ 3. Install required libraries
 pip install pandas
 
-# 4. Ensure the dataset is placed in the correct location:
-#    ./datasets/movies_and_shows.csv
+ 4. Ensure the dataset is placed in the correct location:
+    ./datasets/movies_and_shows.csv
 
-# 5. Run the analysis
-#    (either in Jupyter Notebook or as a script if provided)
+ 5. Run the analysis
+    (either in Jupyter Notebook or as a script if provided)
 jupyter notebook Golden_Age_TV_Analysis.ipynb
+
+```
+
 
 ## 🚀 Future Work
 - Expand analysis to include more genres or platforms (e.g., Netflix, HBO, AMC)
